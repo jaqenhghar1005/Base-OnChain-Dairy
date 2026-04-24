@@ -6,3 +6,4 @@ docs: add usage instructions
 docs: improve README formatting
 docs: add example usage
 docs: fix typos
+docs: clarify contract purpose
