@@ -5,3 +5,4 @@ init: project setup with README
 docs: add usage instructions
 docs: improve README formatting
 docs: add example usage
+docs: fix typos
