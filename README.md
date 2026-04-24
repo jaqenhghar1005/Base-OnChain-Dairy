@@ -9,3 +9,4 @@ docs: fix typos
 docs: clarify contract purpose
 
 docs: add deployed 0x69e0b2eCD3F86559E408b22934f9517f14EB2324
+docs: add Base network details
